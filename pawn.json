@@ -1,0 +1,10 @@
+{
+	"user": "tulsinan",
+	"repo": "y_not",
+	"entry": "test.pwn",
+	"output": "test.amx",
+	"dependencies": [
+		"sampctl/samp-stdlib"
+	],
+	"local": true
+}
